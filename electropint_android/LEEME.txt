@@ -1,0 +1,12 @@
+ELECTROPINT - versión con guardado local y copias de seguridad
+
+1. Abrí index.html con Chrome en Android.
+2. Los registros se guardan automáticamente en el almacenamiento del navegador de ese dispositivo.
+3. Usá el botón "Copia de seguridad" periódicamente para descargar un archivo JSON con todos los datos.
+4. Para recuperar los datos, abrí ELECTROPINT y tocá "Restaurar"; seleccioná el archivo JSON de respaldo.
+
+IMPORTANTE:
+- Esta versión guarda datos en un solo dispositivo/navegador. No sincroniza con otros celulares o computadoras.
+- No borres los datos de Chrome ni uses modo incógnito.
+- Para una garantía mayor, descargá copias de seguridad y guardalas en Google Drive.
+- Para sincronización en la nube y una instalación como app (PWA), hace falta publicar la web en un hosting HTTPS y configurar una base de datos online.
